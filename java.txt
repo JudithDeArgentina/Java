@@ -1,0 +1,2 @@
+Presione CTRL + MAYÚS + P y escriba Java: Limpiar el espacio de trabajo del servidor de lenguaje Java.
+Esto funciona para mi. para el error de Java
